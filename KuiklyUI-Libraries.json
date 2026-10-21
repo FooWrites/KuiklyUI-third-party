@@ -1712,5 +1712,33 @@
     "componentType": "AITools",
     "developer": "songjiahuan110",
     "sDynamic": false
+  },
+  {
+    "githubUrl": "https://github.com/FooWrites/KuiklySignaturePad",
+    "examples": [
+      "https://github.com/FooWrites/KuiklySignaturePad"
+    ],
+    "componentName": "SignaturePad",
+    "componentDescription": "Kuikly 手写签名板（自研 DSL）",
+    "componentType": "KuiklyView",
+    "developer": "FooWrites",
+    "Android": true,
+    "iOS": true,
+    "Js": true,
+    "sDynamic": true
+  },
+  {
+    "githubUrl": "https://github.com/FooWrites/KuiklySignaturePad",
+    "examples": [
+      "https://github.com/FooWrites/KuiklySignaturePad"
+    ],
+    "componentName": "SignaturePadCompose",
+    "componentDescription": "Kuikly 手写签名板（Compose DSL）",
+    "componentType": "KuiklyView",
+    "developer": "FooWrites",
+    "Android": true,
+    "iOS": true,
+    "Js": true,
+    "sDynamic": true
   }
 ]
